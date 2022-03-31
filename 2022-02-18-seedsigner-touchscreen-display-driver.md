@@ -2,7 +2,7 @@
 layout: post
 title:  "SeedSigner touchscreen display driver"
 date:   2022-02-18 01:01:01 -0500
-categories: category1 category2
+categories: code
 author: SeedSigner
 value: 0.01
 currency: BTC

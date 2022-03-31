@@ -2,7 +2,7 @@
 layout: post
 title:  "Stabilized Lightning"
 date:   2022-01-01 01:01:01 -0500
-categories: category1 category2
+categories: code lightning
 author: hrf.org
 value: 1
 currency: BTC

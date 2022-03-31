@@ -2,7 +2,7 @@
 layout: post
 title:  "BIP-47 / PayNyms in BlueWallet"
 date:   2022-02-16 02:01:01 -0500
-categories: category1 category2
+categories: code privacy
 author: Paul Miller
 value: 0.055
 currency: BTC

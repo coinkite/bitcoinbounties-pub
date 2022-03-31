@@ -2,7 +2,7 @@
 layout: post
 title:  "Find bug in OP_CTV"
 date:   2021-12-01 01:01:01 -0500
-categories: category1 category2
+categories: code
 author: Jeremy Rubin
 value: 5.5
 currency: BTC
