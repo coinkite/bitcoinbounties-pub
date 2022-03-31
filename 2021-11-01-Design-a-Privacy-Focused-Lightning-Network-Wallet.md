@@ -3,7 +3,7 @@ layout: post
 title:  "Design a Privacy Focused Lightning Network Wallet"
 date:   2021-11-01 01:01:01 -0500
 categories: category1 category2
-author: Wasabi Wallet
+author: Wasabi Wallet, Dan Gershony
 value: 1.11
 currency: BTC
 email: rafe@zksnacks.com
