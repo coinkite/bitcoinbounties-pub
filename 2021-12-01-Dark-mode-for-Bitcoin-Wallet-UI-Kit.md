@@ -6,7 +6,7 @@ categories: category1 category2
 author: @abitcoinperson
 value: 0.001
 currency: BTC
-email: @abitcoinperson
+email: abitcoinperson
 status: New
 ---
 
