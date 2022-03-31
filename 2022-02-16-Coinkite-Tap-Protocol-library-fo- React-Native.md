@@ -2,7 +2,7 @@
 layout: post
 title:  "Coinkite Tap Protocol SDK in React Native"
 date:   2022-02-16 01:01:01 -0500
-categories: category1 category2
+categories: code
 author: Coinkite
 value: 25000
 currency: USD
