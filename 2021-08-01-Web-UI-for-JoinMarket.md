@@ -3,10 +3,10 @@ layout: post
 title:  "Web UI for JoinMarket"
 date:   2021-08-01 01:01:01 -0500
 categories: category1 category2
-author: Paul Miller
+author: JoinMarket-Org
 value: 0.5
 currency: BTC
-email: paul@pauljmiller.com
+email: none
 status: New
 ---
 
