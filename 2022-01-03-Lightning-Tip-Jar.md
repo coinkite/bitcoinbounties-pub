@@ -3,10 +3,10 @@ layout: post
 title:  "Lightning Tip Jar"
 date:   2022-01-03 01:01:01 -0500
 categories: category1 category2
-author: Paul Miller
+author: hrf.org
 value: 1
 currency: BTC
-email: paul@pauljmiller.com
+email: hrf.org
 status: New
 ---
 
