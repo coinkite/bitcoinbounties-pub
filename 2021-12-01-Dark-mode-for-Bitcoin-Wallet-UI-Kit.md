@@ -3,10 +3,10 @@ layout: post
 title:  "Dark mode for Bitcoin Wallet UI Kit"
 date:   2021-12-01 01:01:01 -0500
 categories: category1 category2
-author: Paul Miller
+author: @abitcoinperson
 value: 0.001
 currency: BTC
-email: paul@pauljmiller.com
+email: @abitcoinperson
 status: New
 ---
 
