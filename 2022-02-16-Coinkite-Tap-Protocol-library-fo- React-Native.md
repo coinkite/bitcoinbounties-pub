@@ -10,9 +10,5 @@ email: paul@pauljmiller.com
 status: New
 ---
 
-> make it easy to talk to the TAPSIGNER and SATSCARD
-[Details](https://twitter.com/nvk/status/1493985018409979906)
+Coinkite is offering a $25K bounty for re-implementating [coinkite-tap-proto](https://dev.coinkite.cards) in #ReactNative. The ideal deliverable is a SDK that both iOS and Android wallet devs can integrate. Please send your proposals to  'jobs at coinkite com'.
 
-#### Resources
-
-[coinkite-tap-proto](https://dev.coinkite.cards)
