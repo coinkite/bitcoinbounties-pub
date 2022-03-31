@@ -4,9 +4,9 @@ title:  "Design a Privacy Focused Lightning Network Wallet"
 date:   2021-11-01 01:01:01 -0500
 categories: category1 category2
 author: Wasabi Wallet
-value: 1
+value: 1.11
 currency: BTC
-email: none
+email: rafe@zksnacks.com
 status: New
 ---
 
@@ -16,7 +16,7 @@ status: New
 > 0.5 BTC will be given out to the selected research team, while the other...
 > 0.5 BTC will be split between 3 selected individuals to form another research team
 > The teams will be selected and rewarded with 0.1 BTC each in March, 2022. Research will continue until the end of the year, 2022. After the research is over, teams will be granted the rest of the reward.
-[Details](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
+[Details](https://blog.wasabiwallet.io/1-11-btc-ln-privacy-grant/)
 
 #### Resources
 
