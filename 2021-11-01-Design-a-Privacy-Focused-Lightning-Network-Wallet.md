@@ -3,10 +3,10 @@ layout: post
 title:  "Design a Privacy Focused Lightning Network Wallet"
 date:   2021-11-01 01:01:01 -0500
 categories: category1 category2
-author: Paul Miller
+author: Wasabi Wallet
 value: 1
 currency: BTC
-email: paul@pauljmiller.com
+email: none
 status: New
 ---
 
