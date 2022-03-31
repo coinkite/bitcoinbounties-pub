@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coinkite Tap Protocol library for React Native"
+title:  "Coinkite Tap Protocol SDK in React Native"
 date:   2022-02-16 01:01:01 -0500
 categories: category1 category2
 author: Coinkite
