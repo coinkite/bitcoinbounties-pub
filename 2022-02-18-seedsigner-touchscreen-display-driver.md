@@ -3,10 +3,10 @@ layout: post
 title:  "SeedSigner touchscreen display driver"
 date:   2022-02-18 01:01:01 -0500
 categories: category1 category2
-author: Paul Miller
+author: SeedSigner
 value: 0.01
 currency: BTC
-email: paul@pauljmiller.com
+email: @SeedSigner
 status: New
 ---
  
