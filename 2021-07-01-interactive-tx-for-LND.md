@@ -3,10 +3,10 @@ layout: post
 title:  "interactive-tx for LND"
 date:   2021-07-01 01:01:01 -0500
 categories: category1 category2
-author: Paul Miller
+author: dergigi
 value: 0.25
 currency: BTC
-email: paul@pauljmiller.com
+email: none
 status: New
 ---
 
