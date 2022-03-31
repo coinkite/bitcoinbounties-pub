@@ -6,7 +6,7 @@ categories: category1 category2
 author: SeedSigner
 value: 0.01
 currency: BTC
-email: @SeedSigner
+email: @eedSigner
 status: New
 ---
  
