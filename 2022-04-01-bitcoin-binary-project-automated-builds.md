@@ -14,4 +14,13 @@ Create a continuous integration like solution for [BitcoinBinary.org](https://Bi
 
 Bitcoin Binary's goal is to show/verify bitcoin projects' deterministic/reproducible.
 
+These builds include firmware & software binaries of projects like:
+
+- Electrum 
+- Wasabi
+- COLDCARD 
+- Trezor
+- BitBox
+- etc...
+
 Send proposals below
