@@ -23,4 +23,4 @@ These builds include firmware & software binaries of projects like:
 - BitBox
 - etc...
 
-Send proposals below
+Send proposal jobs at coinkite dot com
