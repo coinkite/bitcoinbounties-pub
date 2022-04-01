@@ -24,3 +24,5 @@ These builds include firmware & software binaries of projects like:
 - etc...
 
 Send proposal jobs at coinkite dot com
+
+![](https://pbs.twimg.com/media/FPNpgF2XMAQ1kqo?format=jpg&name=large)
