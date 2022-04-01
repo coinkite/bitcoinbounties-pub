@@ -3,10 +3,10 @@ layout: post
 title:  "BIP-47 / PayNyms in BlueWallet"
 date:   2022-02-16 02:01:01 -0500
 categories: code privacy
-author: Paul Miller
+author: Multiple
 value: 0.055
 currency: BTC
-email: paul@pauljmiller.com
+email: https://github.com/BlueWallet/BlueWallet/issues/2883
 status: New
 ---
 
