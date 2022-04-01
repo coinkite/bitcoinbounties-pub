@@ -2,7 +2,7 @@
 layout: post
 title:  "Dark mode for Bitcoin Wallet UI Kit"
 date:   2021-12-01 01:01:01 -0500
-categories: code
+categories: code design
 author: abitcoinperson
 value: 0.001
 currency: BTC
