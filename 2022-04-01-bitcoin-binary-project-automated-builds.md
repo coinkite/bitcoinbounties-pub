@@ -10,6 +10,8 @@ email: jobs@coinkite.com
 status: New
 ---
  
-Create a continuous integration like solution for (BitcoinBinary.org)[https://BitcoinBinary.org]
+Create a continuous integration like solution for [BitcoinBinary.org](https://BitcoinBinary.org)
 
 Bitcoin Binary's goal is to show/verify bitcoin projects' deterministic/reproducible.
+
+Send proposals below
