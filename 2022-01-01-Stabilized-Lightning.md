@@ -6,7 +6,7 @@ categories: code lightning
 author: hrf.org
 value: 1
 currency: BTC
-email: hrf.org
+contact: hrf.org
 status: New
 ---
 

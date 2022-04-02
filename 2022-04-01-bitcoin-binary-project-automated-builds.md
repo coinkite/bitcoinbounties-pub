@@ -6,7 +6,7 @@ categories: code
 author: NVK
 value: 5,000
 currency: USD
-email: jobs@coinkite.com
+contact: jobs@coinkite.com
 status: New
 ---
  

@@ -6,7 +6,7 @@ categories: code
 author: Jeremy Rubin
 value: 5.5
 currency: BTC
-email: jr@mit.edu
+contact: jr@mit.edu
 status: New
 ---
 

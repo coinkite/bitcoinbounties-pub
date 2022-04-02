@@ -6,7 +6,7 @@ categories: code
 author: Coinkite
 value: 25000
 currency: USD
-email: jobs@coinkite.com
+contact: jobs@coinkite.com
 status: New
 ---
 

@@ -6,7 +6,7 @@ categories: code
 author: SeedSigner
 value: 0.01
 currency: BTC
-email: SeedSigner
+contact: SeedSigner
 status: New
 ---
  

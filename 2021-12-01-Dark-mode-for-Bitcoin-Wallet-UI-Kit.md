@@ -6,7 +6,7 @@ categories: code design
 author: abitcoinperson
 value: 0.001
 currency: BTC
-email: abitcoinperson
+contact: abitcoinperson
 status: New
 ---
 

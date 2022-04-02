@@ -6,7 +6,7 @@ categories: code privacy
 author: JoinMarket-Org
 value: 0.5
 currency: BTC
-email: none
+contact: none
 status: New
 ---
 

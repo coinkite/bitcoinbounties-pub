@@ -6,7 +6,7 @@ categories: code privacy
 author: Multiple
 value: 0.055
 currency: BTC
-email: https://github.com/BlueWallet/BlueWallet/issues/2883
+contact: https://github.com/BlueWallet/BlueWallet/issues/2883
 status: New
 ---
 

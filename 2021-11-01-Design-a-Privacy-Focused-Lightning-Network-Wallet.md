@@ -6,7 +6,7 @@ categories: code privacy
 author: Wasabi Wallet Dan Gershony
 value: 1.11
 currency: BTC
-email: rafe@zksnacks.com
+contact: rafe@zksnacks.com
 status: New
 ---
 

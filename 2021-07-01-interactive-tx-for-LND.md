@@ -6,7 +6,7 @@ categories: code
 author: dergigi
 value: 0.25
 currency: BTC
-email: none
+contact: none
 status: New
 ---
 
