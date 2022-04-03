@@ -6,7 +6,7 @@ categories: code
 author: dergigi
 value: 0.25
 currency: BTC
-contact: none
+contact: https://twitter.com/dergigi
 status: New
 ---
 

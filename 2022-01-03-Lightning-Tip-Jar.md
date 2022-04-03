@@ -3,10 +3,10 @@ layout: post
 title:  "Lightning Tip Jar"
 date:   2022-01-03 01:01:01 -0500
 categories: code lightning
-author: hrf.org
+author: https://hrf.org
 value: 1
 currency: BTC
-contact: hrf.org
+contact: https://hrf.org
 status: New
 ---
 
