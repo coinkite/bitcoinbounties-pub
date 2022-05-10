@@ -12,9 +12,9 @@ status: New
  
 Create a continuous integration like solution for [BitcoinBinary.org](https://BitcoinBinary.org)
 
-Bitcoin Binary's goal is to show/verify bitcoin projects' deterministic/reproducible.
+Bitcoin Binary's goal is to show/verify bitcoin projects' deterministic/reproducible being built on video, [see examples](https://BitcoinBinary.org)
 
-These builds include firmware & software binaries of projects like:
+Builds include firmware & software binaries of major Bitcoin projects like:
 
 - Electrum 
 - Wasabi
