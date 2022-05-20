@@ -7,7 +7,7 @@ author: NVK
 value: 5,000
 currency: USD
 contact: jobs@coinkite.com
-status: New
+status: Pending
 ---
  
 Create a continuous integration like solution for [BitcoinBinary.org](https://BitcoinBinary.org)
